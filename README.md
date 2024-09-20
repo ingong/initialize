@@ -1,6 +1,6 @@
 # Github Label 세팅
 
-## Label 이란?
+## Label 이란??
 - Issue, PR 에 붙여서 분류하기 위한 이름표
 
 ## Github 액세스 토큰 발급
